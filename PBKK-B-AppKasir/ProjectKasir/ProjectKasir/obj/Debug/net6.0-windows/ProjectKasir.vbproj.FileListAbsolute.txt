@@ -1,0 +1,7 @@
+E:\Programming\PBKK\TugasKasir\ProjectKasir\ProjectKasir\obj\Debug\net6.0-windows\ProjectKasir.vbproj.AssemblyReference.cache
+E:\Programming\PBKK\TugasKasir\ProjectKasir\ProjectKasir\obj\Debug\net6.0-windows\ProjectKasir.Form1.resources
+E:\Programming\PBKK\TugasKasir\ProjectKasir\ProjectKasir\obj\Debug\net6.0-windows\ProjectKasir.vbproj.GenerateResource.cache
+E:\Programming\PBKK\TugasKasir\ProjectKasir\ProjectKasir\obj\Debug\net6.0-windows\ProjectKasir.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\PBKK\TugasKasir\ProjectKasir\ProjectKasir\obj\Debug\net6.0-windows\ProjectKasir.AssemblyInfoInputs.cache
+E:\Programming\PBKK\TugasKasir\ProjectKasir\ProjectKasir\obj\Debug\net6.0-windows\ProjectKasir.AssemblyInfo.vb
+E:\Programming\PBKK\TugasKasir\ProjectKasir\ProjectKasir\obj\Debug\net6.0-windows\ProjectKasir.vbproj.CoreCompileInputs.cache
